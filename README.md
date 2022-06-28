@@ -7,9 +7,7 @@ I am a photographer and designer based in southeast UK. UX/UI and product design
 - 🙋‍♂️ I’d love any advice on learning react, SwiftUI, font design and book recommendations.
 - 💪 Experienced with Figma, Sketch and many other creative apps. Languages I am familiar with are: HTML/CSS + JS, python, R, fish & bash scripts.
 - 💬 Ask me about CSS, typography and baking recipes!
-- My preferred pronouns are they/them.
-- In my free time I take photographs 📸, bake 🧑‍🍳 and care for my growing collection of plants 🌴.
-- I advocate for freedom of expression, privacy and open source.
+- 🤽🏻‍♂️ In my free time I take photographs 📸, bake 🧑‍🍳 and care for my growing collection of plants 🌴. I am an active sailor and also play waterpolo.
 
 [![Instagram link](./icons/ig.svg)][ig]
 [![Twitter link](./icons/twitter.svg)][twitter]
