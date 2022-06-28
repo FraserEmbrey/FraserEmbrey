@@ -2,6 +2,7 @@
 
 I am a photographer and designer based in southeast UK. UX/UI and product design are my main interests.
 
+- 💼 Working at a London-based company on software and hardware projects, writing documentation, research and grant applications incl. creating presentations and videos.
 - 🌱 Currently learning react and SwiftUI. Outside of code I am learning Japanese 🇯🇵.
 - 🙋‍♂️ I’d love any advice on learning react, SwiftUI, font design and book recommendations.
 - 💪 Experienced with Figma, Sketch and many other creative apps. Languages I am familiar with are: HTML/CSS + JS, python, R, fish & bash scripts.
