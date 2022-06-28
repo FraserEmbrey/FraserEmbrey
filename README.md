@@ -1,6 +1,6 @@
 [![Hey there, my name is Fraser. Welcome to my GitHub.][banner]][mysite]
 
-I am a photographer and designer based in southeast UK.
+I am a photographer and designer based in southeast UK. UX/UI and product design are my main interests.
 
 - 🌱 Currently learning react and SwiftUI. Outside of code I am learning Japanese 🇯🇵.
 - 🙋‍♂️ I’d love any advice on learning react, SwiftUI, font design and book recommendations.
