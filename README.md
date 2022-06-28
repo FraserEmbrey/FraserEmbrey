@@ -1,14 +1,10 @@
 [![Hey there, my name is Fraser. Welcome to my GitHub.][banner]][mysite]
 
-I'm mainly interested in particle physics, and in the philosophy of physics, in particular the nature of spacetime.
+I am a photographer and designer based in southeast UK.
 
-I find myself recently fascinated by applications of geometric analysis to physics. <samp>(_As examples: [1][physics1], [2][physics2]_)</samp>
-
-My current rôle involves designing, developing and testing a novel platform for collaboration which is being designed for an IoT future.
-
-- 🌱 I’m currently learning Gatsby which I hope to use for my personal site, I also want to learn SwiftUI and Rust. Outside of code I am learning Japanese 🇯🇵.
-- 🙋‍♂️ I’d love any advice on learning react, font design, iOS development and book recommendations. If you want to work with me on anything please let me know.
-- 💪 I mostly write HTML, CSS and JavaScript. I also write bash, zsh and fish scripts fairly often. I have experience with R and python.
+- 🌱 Currently learning react and SwiftUI. Outside of code I am learning Japanese 🇯🇵.
+- 🙋‍♂️ I’d love any advice on learning react, SwiftUI, font design and book recommendations.
+- 💪 Experienced with Figma, Sketch and many other creative apps. Languages I am familiar with are: HTML/CSS + JS, python, R, fish & bash scripts.
 - 💬 Ask me about CSS, typography and baking recipes!
 - My preferred pronouns are they/them.
 - In my free time I take photographs 📸, bake 🧑‍🍳 and care for my growing collection of plants 🌴.
@@ -18,6 +14,7 @@ My current rôle involves designing, developing and testing a novel platform for
 [![Twitter link](./icons/twitter.svg)][twitter]
 [![Codepen link](./icons/cp.svg)][cp]
 [![500px link](./icons/500px.svg)][500px]
+[![Dribbble link](./icons/dribbble.svg)][dribbble]
 
 ![visitors badge][visitorBadge]
 
@@ -25,12 +22,9 @@ My current rôle involves designing, developing and testing a novel platform for
 [banner]: banner.svg "Profile banner"
 [mySite]: https://frsr.me "My personal website"
 
-[physics1]: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.3160390714
-[physics2]: https://users.math.msu.edu/users/awaldron/documents/awaldronRS19.pdf
-
 [visitorBadge]: https://visitor-badge.glitch.me/badge?page_id=fraserembrey.me
 [ig]: http://instagram.com/fraserembrey "My Instagram"
 [cp]: http://codepen.io/frsr "My Codepen"
 [twitter]: http://twitter.com/fraserembrey "My Twitter"
 [500px]: https://500px.com/p/fraserembrey?view=photos "My 500px photos"
-
+[dribbble]: https://dribbble.com/frsr "My Dribbble profile"
