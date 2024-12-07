@@ -1,32 +1,29 @@
-[![Hey there, my name is Fraser. Welcome to my GitHub.][banner]][mysite]
+### Hi, I’m Fraser Embrey! 👋 
 
-I am a photographer and designer based in southeast UK. UX/UI and product design are my main interests.
+I’m a photographer and UX/UI designer based in Brighton UK, passionate about crafting user-centered experiences and capturing engaging images.
 
-💼 Working at a London-based company on software and hardware projects, writing documentation, research and grant applications incl. creating presentations and videos.
+#### What I Do
+💼 Working on designing interfaces, managing products, writing documentation, and photography for branding or events.  
+🌱 Learning ice skating ⛸️ and Japanese 🇯🇵.  
+💪 Experienced with Figma, Sketch, and coding in HTML/CSS, JS, Python, and R.
 
-🌱 Currently learning react and SwiftUI. Outside of code I am learning Japanese 🇯🇵.
+#### What I’m Into
+💬 Ask me about typography, physics or baking recipes!  
+🎡 In my free time, I take photos, bake, and care for my small collection of plants.  
+🤽‍♂️ Active sailor and water polo player.
 
-🙋‍♂️ I’d love any advice on learning react, SwiftUI, font design and book recommendations.
-
-💪 Experienced with Figma, Sketch and more. Languages I am familiar with: HTML/CSS + JS, python, R, fish & bash.
-
-💬 Ask me about CSS, typography and baking recipes!
-
-🤽🏻‍♂️ In my free time I take photographs 📸, bake 🧑‍🍳 and care for my growing collection of plants 🌴. I am an active sailor and also play waterpolo.
-
-[![Instagram link](./icons/ig.svg)][ig]
-[![Codepen link](./icons/cp.svg)][cp]
-[![500px link](./icons/500px.svg)][500px]
-[![Dribbble link](./icons/dribbble.svg)][dribbble]
-
-![visitors badge][visitorBadge]
+#### Let’s Connect
+🌐 [My Portfolio][mySite]  
+📸 [Instagram][ig]  
+🏞️ [Glass][gl]  
+🎨 [Dribbble][db]  
+💻 [CodePen][cp]  
 
 <!-- Links -->
 [banner]: banner.svg "Profile banner"
 [mySite]: https://frsr.me "My personal website"
-
-[visitorBadge]: https://visitor-badge.glitch.me/badge?page_id=fraserembrey.me
 [ig]: http://instagram.com/fraserembrey "My Instagram"
 [cp]: http://codepen.io/frsr "My Codepen"
 [500px]: https://500px.com/p/fraserembrey?view=photos "My 500px photos"
-[dribbble]: https://dribbble.com/frsr "My Dribbble profile"
+[db]: https://dribbble.com/frsr "My Dribbble profile"
+[gl]: http://glass.photo/frsr "My Glass photo portfolio"
